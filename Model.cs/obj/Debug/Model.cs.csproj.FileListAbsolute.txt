@@ -1,0 +1,5 @@
+E:\OneDrive\Project\DEVTool\Model.cs\bin\Debug\Model.cs.dll
+E:\OneDrive\Project\DEVTool\Model.cs\bin\Debug\Model.cs.pdb
+E:\OneDrive\Project\DEVTool\Model.cs\obj\Debug\Model.cs.csprojResolveAssemblyReference.cache
+E:\OneDrive\Project\DEVTool\Model.cs\obj\Debug\Model.cs.dll
+E:\OneDrive\Project\DEVTool\Model.cs\obj\Debug\Model.cs.pdb
